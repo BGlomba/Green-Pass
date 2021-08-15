@@ -1,4 +1,4 @@
-# Green-Pass
+# Green Pass App
 L'applicazione creata con Android Studio per avere il Green Pass a portata di mano!
 
 The application created with Android Studio to have the Green Pass at your fingertips!
